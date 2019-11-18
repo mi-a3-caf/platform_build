@@ -960,7 +960,7 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   script.Print("--------------------------------------------------");
   script.Print(" Caf version: %s"%(build_tag));
   script.Print(" Android version: 10.00.00");
-  script.Print(" Github: https://github.com/aosp-caf-cheeseburger");
+  script.Print(" Github: https://github.com/Just-CAF");
   script.Print("--------------------------------------------------");
 
   device_specific.FullOTA_InstallBegin()
