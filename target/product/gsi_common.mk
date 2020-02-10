@@ -29,9 +29,9 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.apex.updatable=false
 
 # Additional settings used in all AOSP builds
-PRODUCT_PRODUCT_PROPERTIES += \
-    ro.config.ringtone=Ring_Synth_04.ogg \
-    ro.config.notification_sound=pixiedust.ogg \
+#PRODUCT_PRODUCT_PROPERTIES += \
+#    ro.config.ringtone=Ring_Synth_04.ogg \
+#    ro.config.notification_sound=pixiedust.ogg \
 
 # The mainline checking whitelist, should be clean up
 PRODUCT_ARTIFACT_PATH_REQUIREMENT_WHITELIST += \
